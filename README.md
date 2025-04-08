@@ -4,7 +4,7 @@ A pixel-perfect clone of Google Lens using React.js and CapacitorJS for Assignme
 
 ## Deliverables
 - GitHub Repository: https://github.com/Manikanta-010/google-lens-clone
-- Deployment Link: [https://google-lens-clone.vercel.app](https://google-lens-clone.vercel.app)
+- Deployment Link: https://googlelens-clone.netlify.app/
 
 
 ## Setup Instructions
